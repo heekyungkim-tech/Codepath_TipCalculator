@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///Users/heekyungkim/Desktop/TipCalculator/TipCalculator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![tipcalculator](https://user-images.githubusercontent.com/41011055/50667758-df6de180-0f88-11e9-959e-40fb630a5297.gif)
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
